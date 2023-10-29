@@ -1,5 +1,10 @@
 package inicio;
 
-public class Main {
+import gui.MainPane;
 
+public class Main {
+	
+	public static void main(String[] args) {
+		new MainPane();
+	}
 }

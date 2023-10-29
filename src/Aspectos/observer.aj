@@ -1,12 +1,12 @@
 package Aspectos;
 
+
 import java.awt.Color;
 import java.awt.Component;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
-
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JButton;
